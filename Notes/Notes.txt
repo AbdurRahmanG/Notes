@@ -1,0 +1,99 @@
+How to Push Any Project Using User Token of Github by Git Bash Terminal:
+Step 1: Create Account or Login Account
+Step 2: Create Repository
+Step 3: Go to that Folder Where your Projects are
+Step 4: Right Click and Open Git Bash
+Step 5: Type (git init)
+Step 6: Type (git add .)
+Step 7: Type (git commmit -m "here you have to type your commit like Initial Commit")
+Step 8: Type (git remote add origin (remote repository url like https://github.com/username/repoName))
+Step 9: Type (git remote -v) (you may try to skip this then check working or not)
+Step 10: Type (git push https://(pase token number)@github.com/username/repoName -f)
+
+Note: Where ever I have userd () Small Brackets Ignore Small Brackets and Type of Paste 
+code which are between Small Brackets>
+
+
+
+18602586496 (Niyo Bank or Card, IDFC Bank)
+
+All Notes are Here:
+How to Go in Another Activity From One Activity in Android?
+Create a Variable in .java 
+Like:
+Button buttonName;
+
+Now You have to Cas
+Like:
+buttonName = (Button) findViewById(R.id.buttonName);
+
+buttonName.setOnClickListner(new View.OnclickListener() {
+@override
+public void onClick(View view) {
+
+Intent intentName = new Intent(NameOfActivityWhereYouAreCurrently.this, WhereYouGoActivity.class);
+
+startActivity(intentName);
+
+}
+
+}
+
+Why Sould we hire You?
+This is a wonderful opportunity for me to get interviewed at such a renowned company.
+
+Your organization will surely prove to be an excellent platform 
+for me to establish my skills and knowledge in the corporate world.
+
+Even though I am a fresher, 
+I assure you that I will give my best and work to my full potential so that 
+I can contribute as much as I can towards the growth and welfare of this great brand.
+
+More about Yourself:
+I launched 3 Successful Android Apps which in total reached of 2M+ users 
+and generated $100k+ in revenue.
+I built everything from the front-end to the back-end and everything in between.
+
+
+----------------------Job----------EntrepreneuareShip-----------
+2-4pm meeting
+Training Institute,
+Froghet Tejarat,
+Position: Sales for Now.
+Sales,
+Job, Oriented,
+Digital Mar
+Graphi
+Sales
+Entrepreneure,
+
+Future:
+Android,
+
+---------
+Delivery Partner:
+
+-------
+Android Developer Fresher Journey to Internship:
+Hackothon,
+Open Source Contributions,
+Internship,
+Google Certifications,
+
+Java,
+Udacity Courses,
+Android Fundamentals,
+Architecture,
+Design Patterns,
+SmartHerd,
+
+Frameworks,
+
+Programing, Core CS, and Development,
+
+Start as Soon as Possible.
+
+
+
+
+
